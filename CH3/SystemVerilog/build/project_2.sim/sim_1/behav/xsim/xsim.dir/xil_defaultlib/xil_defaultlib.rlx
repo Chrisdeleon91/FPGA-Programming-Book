@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/add_sub.sv,1713953856,systemVerilog,,C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/leading_ones.sv,,add_sub,,uvm,,,,,,
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/leading_ones.sv,1713953856,systemVerilog,,C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/mult.sv,,leading_ones,,uvm,,,,,,
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/mult.sv,1713953856,systemVerilog,,C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/num_ones.sv,,mult,,uvm,,,,,,
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/num_ones.sv,1713953856,systemVerilog,,C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/project_2.sv,,num_ones,,uvm,,,,,,
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/hdl/project_2.sv,1713953856,systemVerilog,,C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/tb/tb.sv,,project_2,,uvm,,,,,,
+C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/tb/tb.sv,1713953856,systemVerilog,,,,tb,,uvm,,,,,,

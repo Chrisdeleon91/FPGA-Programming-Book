@@ -1,0 +1,20 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -generic_top SELECTOR=SUB -generic_top UNIQUE_CASE=FALSE -generic_top TEST_CASE=SUB -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3532] module 'glbl' does not have a parameter named 'SELECTOR' to override [C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/glbl.v:6]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.leading_ones(SELECTOR="SUB")
+Compiling module xil_defaultlib.add_sub(SELECTOR="SUB")
+Compiling module xil_defaultlib.num_ones
+Compiling module xil_defaultlib.mult
+Compiling module xil_defaultlib.add_sub(SELECTOR="ADD")
+Compiling module xil_defaultlib.project_2(SELECTOR="SUB")
+Compiling module xil_defaultlib.tb(SELECTOR="SUB",TEST_CASE="SUB...
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav

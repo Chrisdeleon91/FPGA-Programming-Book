@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../hdl/add_sub.sv" \
+"../../../../../hdl/leading_ones.sv" \
+"../../../../../hdl/mult.sv" \
+"../../../../../hdl/num_ones.sv" \
+"../../../../../hdl/project_2.sv" \
+"../../../../../tb/tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

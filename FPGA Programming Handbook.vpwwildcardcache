@@ -1,0 +1,1096 @@
+<WildcardCache version="1">
+	<Project File="FPGA Programming Handbook.vpj">
+		<Wildcards>
+			<W F="*" Wildcards="*" Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistu;*.vpwwildcardcache" CompileExt="" ResourceExt="" Recurse="1" D="1"/>
+		</Wildcards>
+		<Files>
+			CH3/VHDL/build/project_2.runs/impl_1/.opt_design.end.rst
+			CH3/VHDL/build/project_2.runs/impl_1/.Vivado_Implementation.queue.rst
+			CH6/SystemVerilog/tb/tb_pdm_top.sv
+			CH4/VHDL/blocking/hdl/blocking.vhd
+			CH3/SystemVerilog/hdl/leading_ones.sv
+			CH3/SystemVerilog/build/project_2.hw/project_2.lpr
+			CH2/VHDL/build/logic_ex.runs/impl_1/.route_design.end.rst
+			CH12/VHDL/sim/tests/uart_uart_int2.h
+			CH12/IP/sys_pll/sys_pll.xci
+			CH4/VHDL/simple_ff/tb/tb_simple_ff.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/tb.tcl
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.write_bitstream.begin.rst
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.phys_opt_design.end.rst
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.svtype
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_bus_skew_routed.pb
+			CH2/VHDL/build/challenge.runs/impl_1/.route_design.begin.rst
+			CH12/VHDL/hdl/temp_pkg.vhd
+			CH12/VHDL/hdl/cathode_top.vhd
+			CH11/SystemVerilog/hdl/text_rom.sv
+			CH10/VHDL/build/vga.xpr
+			CH7/SystemVerilog/hdl/temp_pkg.sv
+			CH7/IP/flt_to_fix/flt_to_fix.xci
+			CH3/SystemVerilog/build/project_2.runs/synth_1/.vivado.begin.rst
+			CH14/SystemVerilog/hdl/pipeline.sv
+			CH5/VHDL/build/traffic_light.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xvlog.pb
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/elaborate.log
+			CH2/VHDL/build/logic_ex.runs/impl_1/.Vivado_Implementation.queue.rst
+			CH12/VHDL/build/uart_top.xpr
+			CH11/SystemVerilog/hdl/ps2_host.sv
+			CH6/VHDL/build/pdm_audio.xpr
+			CH3/SystemVerilog/build/project_2.runs/synth_1/.vivado.end.rst
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_methodology_drc_routed.pb
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/Compile_Options.txt
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_power_summary_routed.pb
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_drc_opted.rpx
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_bus_skew_routed.rpt
+			CH3/VHDL/build/project_2.runs/impl_1/project_2.vdi
+			CH8/xdc/i2c_temp.xdc
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_timing_summary_routed.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_drc_opted.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/.vivado.end.rst
+			CH10/SystemVerilog/tb/tb_vga.sv
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_drc_routed.rpt
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_drc_opted.rpx
+			CH2/VHDL/build/challenge.runs/synth_1/challenge_utilization_synth.rpt
+			CH2/VHDL/build/challenge.runs/synth_1/challenge.vds
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_route_status.rpt
+			CH14/SystemVerilog/hdl/ps2_host.sv
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_methodology_drc_routed.rpx
+			CH3/VHDL/tb/tb.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/Compile_Options.txt
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_5.xml
+			CH2/VHDL/build/logic_ex.runs/synth_1/logic_ex_utilization_synth.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_methodology_drc_routed.rpt
+			CH12/SystemVerilog/sim/tests/speed_mismatch.h
+			CH12/SystemVerilog/build/acl_top.xpr
+			CH8/SystemVerilog/ip_source/seven_segment/hdl/seven_segment.sv
+			CH7/SystemVerilog/hdl/parallel.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xvlog.log
+			CH2/VHDL/build/logic_ex.runs/synth_1/gen_run.xml
+			CH2/VHDL/build/logic_ex.runs/synth_1/.vivado.end.rst
+			CH12/VHDL/hdl/uart_top.vhd
+			CH6/xdc/pdm_audio.xdc
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.rtti
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/TempBreakPointFile.txt
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_1.xml
+			CH2/VHDL/build/logic_ex.runs/synth_1/vivado.jou
+			CH2/VHDL/build/challenge.runs/impl_1/challenge.tcl
+			CH11/VHDL/hdl/ps2_host.vhd
+			CH10/VHDL/tb/bmp_pkg.vhdl
+			CH3/VHDL/build/project_2.runs/impl_1/write_bitstream.pb
+			CH3/VHDL/build/project_2.runs/impl_1/rundef.js
+			CH3/SystemVerilog/build/project_2.runs/impl_1/project.wdf
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/xil_defaultlib.rlx
+			CH12/VHDL/hdl/acl_top.vhd
+			CH11/VHDL/hdl/final_project.vhd
+			CH8/VHDL/build/scaffold/i2c_temp_flt_bd.xpr
+			CH6/SystemVerilog/hdl/pdm_inputs.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.svtype
+			CH3/SystemVerilog/build/project_2.cache/wt/webtalk_pa.xml
+			CH11/SystemVerilog/hdl/pdm_inputs.sv
+			.project
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_timing_summary_routed.rpt
+			CH3/VHDL/build/project_2.runs/synth_1/project_2_utilization_synth.pb
+			CH8/VHDL/ip_source/seven_segment/component.xml
+			CH4/SystemVerilog/simple_ff/build/simple_ff.xpr
+			CH3/VHDL/hdl/mult.vhd
+			CH3/SystemVerilog/hdl/project_2.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsimcrash.log
+			CH3/SystemVerilog/build/project_2.runs/synth_1/add_sub.tcl
+			CH2/VHDL/build/logic_ex.runs/impl_1/vivado.jou
+			CH2/VHDL/build/logic_ex.runs/impl_1/place_design.pb
+			CH12/SystemVerilog/sim/tests/overrun.h
+			CH11/SystemVerilog/tb/tb_debounce.sv
+			CH4/SystemVerilog/simple_ff/tb/tb_simple_ff.sv
+			CH3/SystemVerilog/build/project_2.runs/impl_1/vivado_6556.backup.jou
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_power_routed.rpt
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_drc_routed.pb
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex.tcl
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_12.xml
+			CH2/SystemVerilog/build/logic_ex.xpr
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_opt.dcp
+			CH7/VHDL/hdl/i2c_temp_flt_components_pkg.vhd
+			CH7/VHDL/build/i2c_temp.xpr
+			CH3/SystemVerilog/build/project_2.runs/impl_1/rundef.js
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_bus_skew_routed.pb
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_2.xml
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xvhdl.log
+			CH3/VHDL/build/project_2.hw/project_2.lpr
+			CH7/VHDL/build/i2c_temp_flt.xpr
+			CH7/IP/fp_mult/fp_mult.xci
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_io_placed.rpt
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_7.xml
+			CH12/SystemVerilog/sim/tests/reg_test.h
+			CH8/SystemVerilog/build/i2c_temp_flt_bd.tcl
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.xdbg
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_io_placed.rpt
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_drc_opted.rpt
+			CH2/VHDL/build/logic_ex.runs/impl_1/ISEWrap.js
+			CH2/VHDL/build/challenge.runs/impl_1/vivado.pb
+			CH3/VHDL/build/project_2.runs/impl_1/.write_bitstream.begin.rst
+			CH8/SystemVerilog/build/scaffold/i2c_temp_flt_bd.tcl
+			CH8/SystemVerilog/build/completed/i2c_temp_flt_bd/i2c_temp_flt_bd.xpr
+			CH4/VHDL/counting_buttons/hdl/counting_buttons_pkg.vhd
+			CH4/SystemVerilog/simple_init_ff/tb/tb_simple_init_ff.sv
+			CH3/SystemVerilog/tb/tb.sv
+			CH2/VHDL/build/logic_ex.runs/synth_1/htr.txt
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_utilization_placed.pb
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_io_placed.rpt
+			CH8/VHDL/ip_source/flt_temp/hdl/util_pkg.vhd
+			CH5/SystemVerilog/hdl/calculator_moore.sv
+			CH3/SystemVerilog/build/project_2.runs/synth_1/ISEWrap.sh
+			CH3/SystemVerilog/build/project_2.runs/impl_1/phys_opt_design.pb
+			CH2/VHDL/build/logic_ex.hw/hw_1/hw.xml
+			CH2/VHDL/build/challenge.runs/synth_1/htr.txt
+			CH2/VHDL/build/challenge.runs/synth_1/.Vivado_Synthesis.queue.rst
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_7.xml
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_clock_utilization_routed.rpt
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.reloc
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_power_routed.rpx
+			CH2/VHDL/build/logic_ex.runs/.jobs/vrs_config_2.xml
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_control_sets_placed.rpt
+			CH14/SystemVerilog/build/ps2_host.xpr
+			CH13/SystemVerilog/build/hello_world.xpr
+			CH12/SystemVerilog/hdl/uart_cpu.sv
+			CH3/VHDL/build/project_2.runs/impl_1/.place_design.end.rst
+			CH3/VHDL/build/project_2.runs/synth_1/vivado.jou
+			CH3/VHDL/build/project_2.cache/wt/webtalk_pa.xml
+			CH9/SystemVerilog/build/ddr2.xpr
+			CH7/VHDL/hdl/parallel.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/elaborate.bat
+			CH3/SystemVerilog/build/project_2.cache/wt/xsim.wdf
+			CH2/VHDL/build/logic_ex.runs/synth_1/ISEWrap.sh
+			CH2/VHDL/build/challenge.runs/synth_1/challenge.dcp
+			CH2/VHDL/build/challenge.runs/impl_1/challenge.bit
+			CH3/VHDL/build/project_2.runs/impl_1/init_design.pb
+			CH7/IP/fix_to_float/fix_to_float.xci
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_utilization_placed.pb
+			CH2/xdc/Nexys-A7-100T-Master.xdc
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/compile.bat
+			CH7/SystemVerilog/tb/tb_temp_flt.sv
+			CH7/SystemVerilog/build/i2c_temp.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.ini
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.ini
+			CH12/VHDL/sim/tests/int_loopback.h
+			CH12/VHDL/hdl/counting_buttons_pkg.vhd
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_timing_summary_routed.rpx
+			CH3/VHDL/build/project_2.runs/impl_1/runme.log
+			CH7/SystemVerilog/tb/adt7420_mdl.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.mem
+			CH3/SystemVerilog/build/project_2.runs/synth_1/add_sub.dcp
+			CH2/VHDL/build/challenge/challenge.xpr
+			CH11/VHDL/hdl/i2c_temp_flt_components_pkg.vhd
+			CH3/SystemVerilog/build/project_2.runs/synth_1/__synthesis_is_complete__
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/simulate.log
+			CH2/VHDL/build/logic_ex.runs/impl_1/runme.bat
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_placed.dcp
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_clock_utilization_routed.rpt
+			CH11/SystemVerilog/tb/tb_final_project.sv
+			CH10/IP/ddr2_vga/ddr2_vga.xci
+			CH7/VHDL/hdl/temp_pkg.vhd
+			CH3/VHDL/hdl/project_2.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/runme.log
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_control_sets_placed.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/write_bitstream.pb
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_2.xml
+			CH12/VHDL/sim/uart_build
+			CH11/SystemVerilog/tb/ddr2_model_parameters.vh
+			CH10/VHDL/hdl/components_pkg.vhd
+			CH3/VHDL/build/project_2.runs/impl_1/route_design.pb
+			CH5/SystemVerilog/hdl/calculator_pkg.sv
+			CH5/SystemVerilog/hdl/calculator_mealy.sv
+			CH3/xdc/Nexys-A7-100T-Master.xdc
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_timing_summary_routed.rpt
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.init_design.end.rst
+			CH2/VHDL/build/challenge.runs/impl_1/vivado.jou
+			CH2/SystemVerilog/hdl/challenge.sv
+			CH10/SystemVerilog/hdl/vga_core.sv
+			CH10/IP/pix_clk/pix_clk.xci
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_bus_skew_routed.pb
+			CH5/xdc/traffic_light_a7100t.xdc
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.opt_design.begin.rst
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_11.xml
+			CH12/VHDL/sim/tests/cts_test.h
+			CH3/VHDL/build/project_2.runs/impl_1/place_design.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_utilization_placed.rpt
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_methodology_drc_routed.rpx
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_power_routed.rpt
+			CH2/VHDL/build/challenge.runs/synth_1/.vivado.begin.rst
+			CH11/VHDL/build/ps2.xpr
+			CH11/SystemVerilog/hdl/i2c_wrapper.sv
+			LICENSE
+			CH4/xdc/simple_fifo_arty_a7100t.xdc
+			CH3/SystemVerilog/build/project_2.runs/impl_1/gen_run.xml
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/simulate.bat
+			CH2/VHDL/build/logic_ex.runs/synth_1/vivado.pb
+			CH2/VHDL/build/challenge.runs/impl_1/htr.txt
+			CH14/SystemVerilog/build/pipeline.xpr
+			CH14/SystemVerilog/build/inferred_wire.xpr
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_power_routed.rpt
+			CH3/VHDL/build/project_2.runs/synth_1/runme.bat
+			CH6/VHDL/hdl/util_pkg.vhd
+			CH4/SystemVerilog/simple_init_ff/build/simple_init_ff.xpr
+			CH3/VHDL/hdl/add_sub.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_drc_opted.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub.vdi
+			CH3/SystemVerilog/build/project_2.cache/sim/ssm.db
+			CH2/VHDL/build/logic_ex.ip_user_files/README.txt
+			CH2/VHDL/build/challenge.runs/impl_1/.write_bitstream.begin.rst
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_15.xml
+			CH14/SystemVerilog/hdl/latch_error.sv
+			CH11/VHDL/hdl/temp_pkg.vhd
+			CH11/SystemVerilog/build/final_project.xpr
+			CH9/SystemVerilog/tb/sim_tb_top.v
+			CH8/SystemVerilog/build/i2c_temp_flt_unpkg.xpr
+			CH4/VHDL/counting_buttons/hdl/cathode_top.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_methodology_drc_routed.rpt
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.rlx
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/TempBreakPointFile.txt
+			CH12/VHDL/sim/tests/uart_uart_int_par.h
+			CH12/SystemVerilog/hdl/uart.sv
+			CH3/VHDL/build/project_2.hw/hw_1/hw.xml
+			CH3/VHDL/build/project_2.runs/impl_1/runme.bat
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_timing_summary_routed.pb
+			CH12/SystemVerilog/sim/tests/uart_uart_int_frame.h
+			CH8/VHDL/ip_source/flt_temp/component.xml
+			CH6/VHDL/hdl/pwm_outputs.vhd
+			CH3/SystemVerilog/build/project_2.srcs/utils_1/imports/synth_1/leading_ones.dcp
+			CH2/VHDL/build/logic_ex.runs/impl_1/.init_design.begin.rst
+			CH2/VHDL/build/challenge.runs/impl_1/project.wdf
+			CH14/SystemVerilog/build/streaming.xpr
+			CH14/SystemVerilog/build/labels.xpr
+			CH12/VHDL/sim/runsim
+			CH3/VHDL/build/project_2.runs/impl_1/.vivado.end.rst
+			CH3/VHDL/build/project_2.runs/impl_1/ISEWrap.js
+			CH7/IP/fp_fused_mult_add/fp_fused_mult_add.xci
+			CH3/SystemVerilog/build/project_2.runs/impl_1/init_design.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_methodology_drc_routed.rpx
+			CH12/VHDL/sim/tests/speed_mismatch.h
+			CH4/VHDL/simple_ff/build/simple_ff.xpr
+			CH2/VHDL/build/logic_ex.runs/impl_1/init_design.pb
+			CH2/VHDL/build/challenge.runs/impl_1/vivado_22508.backup.jou
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_utilization_placed.rpt
+			CH14/SystemVerilog/hdl/inferred_wire.sv
+			CH12/SystemVerilog/hdl/spi.sv
+			CH11/VHDL/build/final_project.xpr
+			.settings/com.sigasi.hdt.vhdl.version.prefs
+			CH8/SystemVerilog/ip_source/adt7420_i2c/hdl/temp_pkg.sv
+			CH3/SystemVerilog/build/project_2.runs/impl_1/htr.txt
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.mem
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.dbg
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/tb_behav.wdb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_power_routed.rpx
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_placed.dcp
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_io_placed.rpt
+			CH12/SystemVerilog/sim/tests/uart_uart_int_par.h
+			CH6/VHDL/hdl/temp_pkg.vhd
+			CH4/VHDL/simple_ff/hdl/simple_ff.vhd
+			CH2/VHDL/build/logic_ex.runs/synth_1/ISEWrap.js
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex.bit
+			CH12/VHDL/sim/tests/overrun.h
+			CH12/SystemVerilog/sim/tests/uart_uart_int2.h
+			CH10/xdc/ddr2.xdc
+			CH3/VHDL/build/project_2.runs/synth_1/project_2.tcl
+			CH6/VHDL/hdl/pdm_inputs.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/ISEWrap.js
+			CH2/VHDL/build/challenge.runs/synth_1/runme.sh
+			CH12/VHDL/build/acl_top.xpr
+			CH4/SystemVerilog/counting_buttons/hdl/counting_buttons.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsimSettings.ini
+			CH3/SystemVerilog/build/project_2.runs/synth_1/gen_run.xml
+			CH2/VHDL/build/logic_ex.runs/impl_1/.phys_opt_design.end.rst
+			CH2/VHDL/build/challenge.xpr
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_8.xml
+			CH12/VHDL/sim/tests/uart_uart_int_frame.h
+			CH11/VHDL/tb/tb_ps2.sv
+			CH8/SystemVerilog/ip_source/seven_segment/hdl/cathode_top.sv
+			CH5/VHDL/hdl/traffic_light.vhd
+			CH5/VHDL/hdl/calculator_moore.vhd
+			CH5/SystemVerilog/build/calculator.xpr
+			CH2/VHDL/build/challenge.runs/impl_1/.place_design.begin.rst
+			CH13/C/helloworld.c
+			CH5/SystemVerilog/build/traffic_light.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/simulate.log
+			CH2/VHDL/build/logic_ex.runs/impl_1/opt_design.pb
+			CH12/SystemVerilog/sim/tests/speedtest.h
+			.settings/com.sigasi.hdt.vhdl.Vhdl.prefs
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_control_sets_placed.rpt
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/xil_defaultlib.rlx
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_route_status.rpt
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.write_bitstream.end.rst
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xvhdl.pb
+			CH12/VHDL/sim/tests/reg_test.h
+			CH3/VHDL/build/project_2.runs/synth_1/vivado.pb
+			CH6/SystemVerilog/tb/adt7420_mdl.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/glbl.v
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.init_design.begin.rst
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_methodology_drc_routed.pb
+			CH2/VHDL/build/challenge.runs/synth_1/gen_run.xml
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_drc_opted.pb
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_placed.dcp
+			CH3/VHDL/build/project_2.runs/impl_1/.vivado.begin.rst
+			CH3/VHDL/build/project_2.runs/synth_1/runme.log
+			CH8/VHDL/ip_source/adt7420_i2c/xgui/adt7420_i2c_v1_0.tcl
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_route_status.pb
+			CH2/VHDL/build/logic_ex.runs/impl_1/ISEWrap.sh
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_9.xml
+			CH10/SystemVerilog/hdl/text_rom.sv
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_timing_summary_routed.pb
+			CH7/VHDL/tb/tb_temp.vhd
+			CH6/SystemVerilog/build/i2c_temp.xpr
+			CH5/IP/sys_pll/sys_pll.xci
+			CH2/VHDL/hdl/logic_ex.vhd
+			CH2/VHDL/build/challenge.runs/synth_1/.Xil/challenge_propImpl.xdc
+			CH2/VHDL/build/challenge.runs/impl_1/opt_design.pb
+			CH12/VHDL/hdl/spi.vhd
+			CH12/SystemVerilog/hdl/seven_segment.sv
+			CH12/SystemVerilog/hdl/cathode_top.sv
+			CH11/VHDL/tb/tb_ps2.vhd
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_methodology_drc_routed.pb
+			CH8/xdc/i2c_temp_flt_bd.tcl
+			CH8/VHDL/ip_source/flt_temp/hdl/temp_pkg.vhd
+			CH7/SystemVerilog/build/i2c_temp_flt.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.dbg
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_clock_utilization_routed.rpt
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_timing_summary_routed.rpx
+			CH2/VHDL/build/logic_ex.runs/impl_1/.vivado.end.rst
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_drc_routed.rpx
+			CH2/VHDL/build/challenge.cache/wt/synthesis.wdf
+			CH2/SystemVerilog/tb/tb.sv
+			CH8/VHDL/ip_source/flt_temp/xgui/flt_temp_v1_0.tcl
+			CH8/SystemVerilog/ip_source/flt_temp/hdl/flt_temp.sv
+			CH7/xdc/i2c_temp.xdc
+			CH6/VHDL/hdl/pdm_output.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/write_bitstream.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_route_status.pb
+			CH2/VHDL/build/logic_ex.runs/synth_1/.vivado.begin.rst
+			CH2/VHDL/build/logic_ex.runs/impl_1/.place_design.end.rst
+			CH2/VHDL/build/logic_ex.runs/.jobs/vrs_config_1.xml
+			CH2/VHDL/build/challenge.runs/synth_1/vivado.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_bus_skew_routed.rpt
+			CH2/VHDL/build/challenge.hw/challenge.lpr
+			CH10/IP/ddr2_vga/mig_a.prj
+			CH3/VHDL/build/project_2.runs/synth_1/gen_run.xml
+			CH14/xdc/vga.xdc
+			CH3/VHDL/build/project_2.cache/wt/synthesis_details.wdf
+			CH3/VHDL/build/project_2.runs/synth_1/project_2.vds
+			CH5/VHDL/hdl/calculator_top.vhd
+			CH4/SystemVerilog/blocking/tb/tb_blocking.sv
+			CH2/VHDL/build/logic_ex.runs/synth_1/.Vivado_Synthesis.queue.rst
+			CH2/VHDL/build/logic_ex.runs/impl_1/vivado.pb
+			CH2/VHDL/build/challenge.cache/wt/webtalk_pa.xml
+			CH12/VHDL/sim/tests/uart_uart_int.h
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_utilization_placed.rpt
+			CH8/SystemVerilog/hdl/adt7420_i2c_mod.sv
+			CH7/VHDL/tb/adt7420_mdl.vhd
+			CH7/SystemVerilog/tb/tb_parallel.sv
+			CH3/SystemVerilog/build/project_2.runs/impl_1/ISEWrap.sh
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.opt_design.end.rst
+			CH2/VHDL/build/challenge.runs/impl_1/.Vivado_Implementation.queue.rst
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_power_summary_routed.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_routed.dcp
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_opt.dcp
+			CH3/SystemVerilog/build/project_2.ip_user_files/README.txt
+			CH3/SystemVerilog/build/project_2.hw/hw_1/hw.xml
+			CH11/VHDL/hdl/i2c_wrapper.vhd
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_methodology_drc_routed.rpt
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_drc_routed.pb
+			CH6/VHDL/hdl/pdm_top.vhd
+			CH4/VHDL/simple_ff_async/build/simple_ff_async.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/compile.log
+			CH3/SystemVerilog/build/project_2.runs/synth_1/add_sub_utilization_synth.rpt
+			CH3/SystemVerilog/build/project_2.runs/impl_1/vivado_20432.backup.jou
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.type
+			CH2/VHDL/build/logic_ex.runs/synth_1/logic_ex.vds
+			CH2/VHDL/build/challenge.runs/impl_1/gen_run.xml
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_5.xml
+			CH11/SystemVerilog/tb/tb_ps2.sv
+			CH3/VHDL/build/project_2.runs/impl_1/.route_design.end.rst
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_drc_opted.rpx
+			CH3/VHDL/build/project_2.runs/synth_1/.Xil/project_2_propImpl.xdc
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/mult.sdb
+			CH3/SystemVerilog/build/project_2.runs/synth_1/ISEWrap.js
+			CH2/VHDL/build/logic_ex.runs/synth_1/runme.log
+			CH3/VHDL/build/project_2.runs/impl_1/gen_run.xml
+			CH7/VHDL/build/parallel.xpr
+			CH5/VHDL/hdl/calculator_mealy.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/obj/xsim_1.c
+			CH2/VHDL/build/logic_ex.runs/impl_1/project.wdf
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_clock_utilization_routed.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/ISEWrap.js
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_route_status.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_routed.dcp
+			CH11/VHDL/hdl/vga_pkg.vhd
+			CH8/VHDL/ip_source/seven_segment/hdl/cathode_top.vhd
+			CH6/VHDL/tb/tb_temp.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xelab.pb
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/logic_ex.vdb
+			CH2/VHDL/build/logic_ex.runs/impl_1/htr.txt
+			CH2/VHDL/build/challenge.runs/impl_1/vivado_33652.backup.jou
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_route_status.pb
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_bus_skew_routed.rpx
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_physopt.dcp
+			CH3/VHDL/build/project_2.runs/impl_1/ISEWrap.sh
+			CH7/SystemVerilog/tb/tb_temp.sv
+			CH7/SystemVerilog/hdl/i2c_temp_flt.sv
+			CH6/SystemVerilog/build/pdm_audio.xpr
+			CH4/SystemVerilog/counting_buttons/hdl/seven_segment.sv
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.place_design.begin.rst
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_6.xml
+			CH2/VHDL/build/logic_ex.runs/impl_1/.route_design.begin.rst
+			CH2/VHDL/build/logic_ex.cache/wt/project.wpc
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_bus_skew_routed.pb
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_14.xml
+			CH3/VHDL/build/project_2.runs/impl_1/.write_bitstream.end.rst
+			CH3/VHDL/build/project_2.runs/impl_1/project_2.bit
+			CH8/VHDL/build/completed/i2c_temp_flt_bd.gen/sources_1/bd/design_1/hdl/design_1_wrapper.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/vivado.pb
+			CH2/VHDL/build/logic_ex.runs/synth_1/__synthesis_is_complete__
+			CH14/SystemVerilog/tb/tb_ps2.sv
+			CH14/SystemVerilog/hdl/streaming.sv
+			CH6/SystemVerilog/tb/tb_temp.sv
+			CH5/SystemVerilog/tb/tb_divider_nr.sv
+			CH4/SystemVerilog/simple_ff_async/tb/tb_simple_ff_async.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/project_2.sdb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_bus_skew_routed.rpt
+			CH2/VHDL/build/logic_ex.runs/impl_1/phys_opt_design.pb
+			CH2/VHDL/build/logic_ex.runs/impl_1/gen_run.xml
+			CH2/VHDL/build/logic_ex.cache/wt/xsim.wdf
+			CH14/SystemVerilog/hdl/ps2_intf.sv
+			CH12/VHDL/sim/tests/ext_loopback.h
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_drc_routed.rpx
+			CH3/VHDL/build/project_2.runs/synth_1/__synthesis_is_complete__
+			CH8/VHDL/tb/adt7420_mdl.vhd
+			CH8/VHDL/ip_source/adt7420_i2c/hdl/adt7420_i2c.vhd
+			CH5/VHDL/build/divider_nr.xpr
+			CH3/SystemVerilog/build/project_2.runs/impl_1/runme.sh
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xelab.pb
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_4.xml
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsimSettings.ini
+			CH11/VHDL/hdl/pdm_inputs.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.route_design.begin.rst
+			CH2/VHDL/build/challenge.runs/synth_1/challenge.tcl
+			CH2/VHDL/build/challenge.runs/impl_1/.route_design.end.rst
+			CH11/VHDL/hdl/i2c_temp_flt.vhd
+			CH10/SystemVerilog/hdl/vga.sv
+			CH3/VHDL/build/project_2.runs/synth_1/ISEWrap.sh
+			CH2/VHDL/build/logic_ex.runs/synth_1/runme.bat
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_4.xml
+			CH12/SystemVerilog/sim/tests/cts_test.h
+			CH10/VHDL/hdl/vga_pkg.vhd
+			CH8/VHDL/tb/tb_design_1_wrapper.vhd
+			CH4/VHDL/blocking/tb/tb_blocking.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.rlx
+			CH3/SystemVerilog/build/project_2.runs/synth_1/vivado.jou
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_power_summary_routed.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_drc_opted.rpx
+			CH3/VHDL/build/project_2.runs/synth_1/runme.sh
+			CH6/VHDL/tb/tb_pdm_top.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.Vivado_Implementation.queue.rst
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_methodology_drc_routed.rpt
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_bus_skew_routed.rpx
+			CH2/VHDL/build/challenge.runs/synth_1/rundef.js
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_utilization_placed.pb
+			CH2/SystemVerilog/hdl/logic_ex.sv
+			CH14/SystemVerilog/hdl/labels.sv
+			CH12/VHDL/hdl/uart_cpu.vhd
+			CH11/SystemVerilog/hdl/debounce.sv
+			CH6/SystemVerilog/hdl/i2c_temp.sv
+			CH4/VHDL/blocking/build/blocking.xpr
+			CH4/SystemVerilog/blocking/hdl/blocking.sv
+			CH4/SystemVerilog/blocking/build/blocking.xpr
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.place_design.end.rst
+			CH2/VHDL/build/logic_ex/logic_ex.xpr
+			CH12/SystemVerilog/hdl/sync_fifo.sv
+			CH10/VHDL/tb/tb_vga.vhdl
+			CH3/VHDL/build/project_2.cache/wt/synthesis.wdf
+			CH5/VHDL/hdl/calculator_pkg.vhd
+			CH5/SystemVerilog/hdl/calculator_top.sv
+			CH2/VHDL/build/logic_ex.runs/impl_1/runme.sh
+			CH2/VHDL/build/logic_ex.hw/logic_ex.lpr
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_physopt.dcp
+			CH2/VHDL/build/challenge.cache/wt/project.wpc
+			CH11/VHDL/tb/tb_debounce.vhd
+			CH7/VHDL/hdl/i2c_temp.vhd
+			CH3/SystemVerilog/build/project_2.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/tb_vlog.prj
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/tb_behav.wdb
+			CH3/SystemVerilog/build/project_2.runs/synth_1/add_sub.vds
+			CH2/VHDL/build/logic_ex.runs/impl_1/.phys_opt_design.begin.rst
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_13.xml
+			CH7/VHDL/build/parallel/parallel.xpr
+			CH6/xdc/i2c_temp.xdc
+			CH6/VHDL/build/i2c_temp.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.xdbg
+			CH3/SystemVerilog/build/project_2.runs/impl_1/opt_design.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_timing_summary_routed.rpx
+			CH3/SystemVerilog/build/project_2.runs/.jobs/vrs_config_3.xml
+			CH2/VHDL/tb/tb.vhd
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.rtti
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_methodology_drc_routed.rpx
+			CH10/xdc/vga_gold.xdc
+			CH9/SystemVerilog/hdl/example_top.v
+			CH6/VHDL/hdl/i2c_temp.vhd
+			CH5/SystemVerilog/hdl/traffic_light.sv
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsimkernel.log
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_physopt.dcp
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_power_routed.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/.phys_opt_design.end.rst
+			CH11/VHDL/build/debounce.xpr
+			CH10/VHDL/hdl/vga_core.vhd
+			CH8/SystemVerilog/hdl/adt7420_i2c_bd.v
+			CH3/VHDL/hdl/leading_ones.vhd
+			CH3/SystemVerilog/build/project_2.runs/synth_1/.Xil/add_sub_propImpl.xdc
+			CH3/SystemVerilog/build/project_2.cache/wt/project.wpc
+			CH2/VHDL/build/logic_ex.runs/impl_1/.write_bitstream.begin.rst
+			CH2/VHDL/build/challenge.runs/synth_1/challenge_utilization_synth.pb
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_1.xml
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_routed.dcp
+			CH5/VHDL/hdl/divider_nr.vhd
+			CH3/SystemVerilog/hdl/add_sub.sv
+			CH3/SystemVerilog/build/project_2.runs/synth_1/htr.txt
+			CH2/VHDL/build/logic_ex.cache/wt/synthesis_details.wdf
+			CH2/VHDL/build/challenge.cache/wt/synthesis_details.wdf
+			CH11/SystemVerilog/hdl/vga_core.sv
+			CH3/SystemVerilog/build/project_2.runs/impl_1/vivado.jou
+			CH2/VHDL/tb/tb_challenge.vhd
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/tb.tcl
+			CH2/VHDL/build/logic_ex.runs/synth_1/.Xil/logic_ex_propImpl.xdc
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_control_sets_placed.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/runme.bat
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_methodology_drc_routed.pb
+			CH12/tb/tb_uart.sv
+			CH3/VHDL/build/project_2.runs/impl_1/phys_opt_design.pb
+			CH2/VHDL/build/logic_ex.runs/impl_1/rundef.js
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_power_routed.rpx
+			CH2/VHDL/build/logic_ex.runs/impl_1/.write_bitstream.end.rst
+			CH2/VHDL/build/challenge.runs/impl_1/rundef.js
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_10.xml
+			CH14/xdc/latch.xdc
+			CH13/VHDL/build/hello_world.xpr
+			CH7/VHDL/hdl/i2c_temp_flt.vhd
+			CH3/SystemVerilog/build/project_2.runs/synth_1/vivado.pb
+			CH3/SystemVerilog/build/project_2.runs/synth_1/add_sub_utilization_synth.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.vivado.begin.rst
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/tb.vdb
+			CH2/VHDL/build/logic_ex.runs/synth_1/logic_ex_utilization_synth.pb
+			CH2/VHDL/build/challenge.runs/synth_1/__synthesis_is_complete__
+			CH2/VHDL/build/challenge.runs/synth_1/runme.bat
+			CH2/VHDL/build/challenge.runs/impl_1/.opt_design.end.rst
+			CH11/SystemVerilog/hdl/i2c_temp_flt.sv
+			CH11/SystemVerilog/build/ps2.xpr
+			CH3/VHDL/build/project_2.runs/impl_1/.opt_design.begin.rst
+			CH3/VHDL/build/project_2.runs/impl_1/runme.sh
+			CH3/VHDL/build/project_2.runs/.jobs/vrs_config_1.xml
+			CH4/SystemVerilog/counting_buttons/hdl/cathode_top.sv
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_drc_routed.rpx
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_drc_opted.pb
+			CH2/VHDL/build/challenge.runs/impl_1/phys_opt_design.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_drc_routed.rpt
+			CH6/SystemVerilog/hdl/pdm_output.sv
+			CH4/VHDL/simple_ff_async/tb/tb_simple_ff_async.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsimkernel.log
+			CH3/SystemVerilog/build/project_2.runs/synth_1/runme.sh
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_placed.dcp
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_drc_routed.rpt
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex.vdi
+			CH14/xdc/pipeline.xdc
+			CH14/SystemVerilog/build/latch_error.xpr
+			CH3/VHDL/hdl/num_ones.vhd
+			CH3/SystemVerilog/build/project_2.runs/synth_1/runme.bat
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_drc_routed.pb
+			CH2/VHDL/build/challenge.runs/impl_1/runme.log
+			CH3/VHDL/build/project_2.runs/impl_1/.phys_opt_design.begin.rst
+			CH3/VHDL/build/project_2.runs/synth_1/project_2_utilization_synth.rpt
+			CH7/IP/fp_addsub/fp_addsub.xci
+			CH4/SystemVerilog/simple_ff_async/hdl/simple_ff_async_.sv
+			CH2/VHDL/build/challenge.runs/impl_1/ISEWrap.sh
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_opt.dcp
+			CH12/xdc/uart_a7100t.xdc
+			CH12/SystemVerilog/sim/tests/int_loopback.h
+			CH11/xdc/vga.xdc
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_drc_routed.rpt
+			CH3/VHDL/build/project_2.runs/impl_1/project_2.tcl
+			CH3/VHDL/build/project_2.runs/impl_1/htr.txt
+			CH5/VHDL/tb/tb_divider_nr.vhd
+			CH4/VHDL/counting_buttons/build/counting_buttons.xpr
+			CH3/SystemVerilog/hdl/mult.sv
+			CH3/SystemVerilog/build/project_2.cache/wt/synthesis_details.wdf
+			CH3/SystemVerilog/build/project_2.cache/wt/synthesis.wdf
+			CH13/xdc/uart_a7100t.xdc
+			CH3/VHDL/build/project_2.runs/impl_1/opt_design.pb
+			CH3/VHDL/build/project_2.runs/impl_1/.place_design.begin.rst
+			CH8/VHDL/ip_source/adt7420_i2c/component.xml
+			CH4/VHDL/counting_buttons/hdl/seven_segment.vhd
+			CH4/VHDL/counting_buttons/hdl/counting_buttons.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/elaborate.log
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_opt.dcp
+			CH11/VHDL/hdl/debounce.vhd
+			CH5/SystemVerilog/hdl/divider_nr.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/glbl.sdb
+			CH2/VHDL/hdl/challenge.vhd
+			CH2/VHDL/build/logic_ex.xpr
+			CH2/VHDL/build/challenge.hw/hw_1/hw.xml
+			CH11/VHDL/hdl/text_rom.vhd
+			CH11/SystemVerilog/hdl/final_project.sv
+			CH3/SystemVerilog/build/project_2.runs/synth_1/.Vivado_Synthesis.queue.rst
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/tb_vhdl.prj
+			CH3/VHDL/build/project_2.runs/impl_1/.init_design.begin.rst
+			CH3/VHDL/build/project_2.runs/synth_1/rundef.js
+			CH3/VHDL/build/project_2.cache/wt/project.wpc
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.phys_opt_design.begin.rst
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_timing_summary_routed.rpt
+			CH2/VHDL/build/logic_ex.cache/sim/ssm.db
+			CH2/VHDL/build/challenge.runs/synth_1/vivado.jou
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_3.xml
+			CH12/xdc/spi_a7100t.xdc
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_route_status.rpt
+			CH3/VHDL/build/project_2.runs/impl_1/vivado.pb
+			CH3/VHDL/build/project_2.runs/synth_1/.Vivado_Synthesis.queue.rst
+			CH9/VHDL/build/ddr2.xpr
+			CH8/VHDL/ip_source/seven_segment/hdl/seven_segment.vhd
+			CH6/SystemVerilog/hdl/pdm_top.sv
+			CH5/SystemVerilog/build/divider_nr.xpr
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsimcrash.log
+			CH2/VHDL/build/challenge.runs/impl_1/.phys_opt_design.begin.rst
+			CH12/SystemVerilog/sim/tests/uart_uart_int.h
+			CH10/VHDL/hdl/text_rom.vhd
+			CH5/VHDL/build/calculator.xpr
+			CH3/VHDL/build/project_2.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/leading_ones.sdb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub.tcl
+			CH2/VHDL/build/logic_ex.runs/synth_1/logic_ex.tcl
+			CH2/VHDL/build/logic_ex.runs/impl_1/.place_design.begin.rst
+			CH2/VHDL/build/challenge.runs/synth_1/.vivado.end.rst
+			CH3/VHDL/build/project_2.runs/impl_1/.route_design.begin.rst
+			CH7/VHDL/hdl/util_pkg.vhd
+			CH7/SystemVerilog/hdl/i2c_temp.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/num_ones.sdb
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/elaborate.bat
+			CH2/VHDL/build/logic_ex.runs/impl_1/route_design.pb
+			CH11/VHDL/hdl/vga_core.vhd
+			CH10/IP/sys_pll/sys_pll.xci
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_drc_opted.pb
+			CH7/SystemVerilog/build/parallel.xpr
+			CH4/SystemVerilog/simple_init_ff/hdl/simple_init_ff.sv
+			CH4/SystemVerilog/simple_ff_async/build/simple_ff.xpr
+			CH2/VHDL/build/logic_ex.cache/wt/synthesis.wdf
+			CH6/VHDL/tb/adt7420_mdl.vhd
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/tb.sdb
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_utilization_placed.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_timing_summary_routed.rpx
+			CH3/VHDL/build/project_2.runs/synth_1/.vivado.begin.rst
+			CH2/VHDL/build/logic_ex.runs/synth_1/runme.sh
+			CH2/VHDL/build/logic_ex.runs/synth_1/logic_ex.dcp
+			CH2/VHDL/build/logic_ex.runs/impl_1/.opt_design.begin.rst
+			CH2/VHDL/build/logic_ex.cache/wt/webtalk_pa.xml
+			CH2/VHDL/build/challenge.runs/impl_1/.init_design.end.rst
+			CH2/VHDL/build/challenge.runs/impl_1/.init_design.begin.rst
+			CH12/SystemVerilog/sim/tests/uart_uart_poll.h
+			CH3/VHDL/build/project_2.runs/synth_1/ISEWrap.js
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/compile.log
+			CH2/VHDL/build/challenge.runs/synth_1/runme.log
+			CH2/VHDL/build/challenge.runs/impl_1/.write_bitstream.end.rst
+			CH2/SystemVerilog/build/challenge.xpr
+			CH12/VHDL/sim/tests/uart_uart_poll.h
+			CH12/VHDL/hdl/uart.vhd
+			CH9/xdc/ddr2.xdc
+			CH2/VHDL/build/logic_ex.runs/impl_1/.vivado.begin.rst
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_bus_skew_routed.rpx
+			CH13/VHDL/hello_world.xpr
+			CH12/SystemVerilog/sim/runsim
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_drc_opted.rpt
+			CH3/SystemVerilog/build/project_2.runs/synth_1/rundef.js
+			CH3/SystemVerilog/build/project_2.runs/impl_1/runme.bat
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_drc_routed.rpx
+			CH2/VHDL/build/challenge.runs/synth_1/ISEWrap.js
+			CH2/VHDL/build/challenge.runs/impl_1/place_design.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_timing_summary_routed.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_drc_opted.rpt
+			CH2/SystemVerilog/tb/tb_challenge.sv
+			CH14/SystemVerilog/build/pre_synth.tcl
+			CH10/xdc/vga.xdc
+			CH8/SystemVerilog/ip_source/flt_temp/hdl/temp_pkg.sv
+			CH2/VHDL/build/challenge.runs/impl_1/route_design.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_timing_summary_routed.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_drc_routed.pb
+			CH12/SystemVerilog/build/uart_top.xpr
+			CH4/xdc/Nexys-A7-100T-Master.xdc
+			CH3/SystemVerilog/build/project_2.runs/synth_1/incr_synth_reason.pb
+			CH2/VHDL/build/challenge.runs/impl_1/.place_design.end.rst
+			CH12/SystemVerilog/hdl/async_fifo.sv
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_power_routed.rpx
+			CH8/VHDL/ip_source/seven_segment/xgui/seven_segment_v1_0.tcl
+			CH8/VHDL/ip_source/flt_temp/hdl/flt_temp.vhd
+			CH3/SystemVerilog/build/project_2.runs/impl_1/place_design.pb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_bus_skew_routed.rpx
+			CH2/VHDL/build/challenge.runs/impl_1/init_design.pb
+			CH2/VHDL/build/challenge.runs/impl_1/challenge_power_summary_routed.pb
+			CH2/VHDL/build/challenge.runs/impl_1/.opt_design.begin.rst
+			CH12/SystemVerilog/sim/tests/ext_loopback.h
+			CH3/VHDL/build/project_2.runs/synth_1/htr.txt
+			CH6/SystemVerilog/hdl/pwm_outputs.sv
+			CH3/SystemVerilog/build/project_2.runs/synth_1/runme.log
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub.bit
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.vivado.end.rst
+			CH13/xdc/ddr2.xdc
+			CH10/VHDL/hdl/vga.vhd
+			CH10/SystemVerilog/build/vga.xpr
+			.library_mapping.xml
+			CH3/VHDL/build/project_2.runs/synth_1/.vivado.end.rst
+			CH6/SystemVerilog/hdl/temp_pkg.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.type
+			CH2/VHDL/build/logic_ex.runs/impl_1/write_bitstream.pb
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_route_status.rpt
+			CH2/VHDL/build/challenge.runs/impl_1/challenge.vdi
+			CH12/VHDL/sim/tests/speedtest.h
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_bus_skew_routed.rpt
+			CH3/VHDL/build/project_2.runs/impl_1/.phys_opt_design.end.rst
+			CH3/VHDL/build/project_2.runs/synth_1/project_2.dcp
+			CH3/VHDL/build/project_2.runs/impl_1/project.wdf
+			CH8/VHDL/build/completed/i2c_temp_flt_bd.srcs/sources_1/bd/design_1/design_1.bd
+			CH4/SystemVerilog/simple_ff/hdl/simple_ff.sv
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/add_sub.sdb
+			CH3/SystemVerilog/build/project_2.runs/impl_1/add_sub_physopt.dcp
+			CH2/VHDL/build/challenge.runs/impl_1/runme.sh
+			CH12/SystemVerilog/sim/uart_build
+			CH3/VHDL/build/project_2.runs/impl_1/.init_design.end.rst
+			regression.py
+			CH7/VHDL/tb/tb_parallel.vhd
+			CH5/xdc/calculator_a7100t.xdc
+			CH3/SystemVerilog/hdl/num_ones.sv
+			CH2/VHDL/build/logic_ex.runs/impl_1/runme.log
+			CH2/VHDL/build/challenge.runs/synth_1/ISEWrap.sh
+			CH2/VHDL/build/challenge.runs/impl_1/.vivado.begin.rst
+			CH12/VHDL/hdl/seven_segment.vhd
+			CH12/SystemVerilog/hdl/acl_top.sv
+			CH8/SystemVerilog/ip_source/adt7420_i2c/hdl/adt7420_i2c.sv
+			CH4/VHDL/simple_ff_async/hdl/simple_ff_async.vhd
+			CH4/SystemVerilog/counting_buttons/build/counting_buttons.xpr
+			CH3/SystemVerilog/build/project_2.runs/impl_1/.route_design.end.rst
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/obj/xsim_1.c
+			CH2/VHDL/build/logic_ex.runs/synth_1/rundef.js
+			CH2/VHDL/build/logic_ex.runs/impl_1/logic_ex_routed.dcp
+			CH2/VHDL/build/logic_ex.runs/impl_1/.init_design.end.rst
+			CH11/SystemVerilog/build/debounce.xpr
+			CH3/VHDL/build/project_2.runs/impl_1/project_2_utilization_placed.pb
+			CH3/VHDL/build/project_2.runs/impl_1/vivado.jou
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/simulate.bat
+			CH2/VHDL/build/logic_ex.runs/impl_1/.opt_design.end.rst
+			CH2/VHDL/build/challenge.runs/.jobs/vrs_config_6.xml
+			CH12/SystemVerilog/hdl/uart_top.sv
+			CH11/VHDL/hdl/pdm_top.vhd
+			CH8/VHDL/build/completed/i2c_temp_flt_bd.xpr
+			CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/compile.bat
+			CH3/SystemVerilog/build/project_2.runs/impl_1/route_design.pb
+			CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/xsim.reloc
+			.settings/org.eclipse.core.resources.prefs
+		</Files>
+		<Folders>
+			133584274560000000 CH13/SystemVerilog/
+			133659188464575622 CH3/SystemVerilog/build/project_2.sim/
+			133584274560000000 CH5/SystemVerilog/hdl/
+			133584274560000000 CH9/SystemVerilog/hdl/
+			133654616578684043 CH3/SystemVerilog/build/project_2.cache/ip/2022.2/
+			133678914457599337 CH3/VHDL/build/project_2.cache/compile_simlib/xcelium/
+			133641632914069669 CH2/VHDL/build/challenge.hw/hw_1/wave/
+			133641546259518942 CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/obj/
+			133678914424332867 CH3/
+			133584274560000000 CH4/VHDL/blocking/build/
+			133584274560000000 CH10/IP/ddr2_vga/
+			133584274560000000 CH14/SystemVerilog/build/
+			133640940877715652 CH2/VHDL/build/logic_ex.hw/hw_1/
+			133654612067814472 CH3/SystemVerilog/build/project_2.cache/compile_simlib/xcelium/
+			133584274560000000 CH4/SystemVerilog/simple_ff_async/hdl/
+			133584274560000000 CH4/VHDL/counting_buttons/build/
+			133584274560000000 CH10/IP/
+			133584274560000000 CH8/xdc/
+			133584274560000000 CH14/SystemVerilog/hdl/
+			133584274560000000 CH5/SystemVerilog/build/
+			133678914714772989 CH3/VHDL/build/project_2.cache/
+			133643295406591566 CH2/VHDL/build/challenge.cache/
+			133654616834549889 CH3/SystemVerilog/build/project_2.cache/wt/
+			133584274560000000 CH4/VHDL/blocking/tb/
+			133584274560000000 CH4/VHDL/simple_ff_async/build/
+			133584274560000000 CH13/C/
+			133643295406721563 CH2/VHDL/build/challenge.runs/
+			133659192039973609 CH3/SystemVerilog/build/project_2.runs/impl_1/.Xil/
+			133584274560000000 CH4/SystemVerilog/counting_buttons/hdl/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.gen/sources_1/bd/
+			133584274560000000 CH8/VHDL/ip_source/flt_temp/xgui/
+			133678914457609343 CH3/VHDL/build/project_2.cache/compile_simlib/activehdl/
+			133584274560000000 CH13/
+			133678914714923118 CH3/VHDL/build/project_2.runs/.jobs/
+			133584274560000000 CH7/IP/fp_fused_mult_add/
+			133584274560000000 CH8/
+			133641627515584229 CH2/VHDL/build/challenge.cache/ip/2022.2/
+			133584274560000000 CH4/VHDL/simple_ff/hdl/
+			133584274560000000 CH6/SystemVerilog/hdl/
+			133584274560000000 CH7/VHDL/hdl/
+			133584274560000000 CH11/VHDL/
+			133643295278579877 CH2/VHDL/build/logic_ex.runs/
+			133640927226608395 CH2/VHDL/build/logic_ex.sim/sim_1/
+			133659188464865612 CH3/SystemVerilog/build/
+			133659188464565610 CH3/SystemVerilog/build/project_2.srcs/
+			133584274560000000 CH5/xdc/
+			133584274560000000 CH10/VHDL/
+			133584274560000000 CH12/
+			133584274560000000 CH8/SystemVerilog/ip_source/flt_temp/hdl/
+			133584274560000000 CH4/SystemVerilog/simple_ff_async/
+			133584274560000000 CH6/SystemVerilog/
+			133641628638414678 CH2/VHDL/build/challenge.cache/wt/
+			133584274560000000 CH4/VHDL/counting_buttons/hdl/
+			133584274560000000 CH7/VHDL/tb/
+			133584274560000000 CH12/VHDL/build/
+			133641543319355386 CH2/VHDL/build/challenge.cache/compile_simlib/modelsim/
+			133584274560000000 CH11/SystemVerilog/hdl/
+			133584274560000000 CH12/SystemVerilog/build/
+			133584274560000000 CH12/SystemVerilog/sim/
+			133654612067834476 CH3/SystemVerilog/build/project_2.cache/compile_simlib/activehdl/
+			133584274560000000 CH7/
+			133584274560000000 CH7/SystemVerilog/
+			133584274560000000 CH9/VHDL/
+			133654612338805265 CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/
+			133584274560000000 CH8/SystemVerilog/ip_source/adt7420_i2c/
+			133584274560000000 CH8/SystemVerilog/ip_source/seven_segment/hdl/
+			133678914957165175 CH3/VHDL/build/project_2.cache/wt/
+			133584274560000000 CH4/SystemVerilog/simple_ff/
+			133584274560000000 CH4/SystemVerilog/simple_ff/build/
+			133584274560000000 CH8/VHDL/ip_source/adt7420_i2c/xgui/
+			133584274560000000 CH10/IP/sys_pll/
+			133641547714713671 CH2/VHDL/build/logic_ex.runs/synth_1/.Xil/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.srcs/
+			133584274560000000 CH10/SystemVerilog/build/
+			133584274560000000 CH8/VHDL/build/scaffold/
+			133678915921327663 CH3/VHDL/build/project_2.hw/hw_1/
+			133584274560000000 CH12/SystemVerilog/hdl/
+			133584274560000000 CH12/VHDL/sim/
+			133584274560000000 CH4/SystemVerilog/blocking/
+			133640927252570088 CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/
+			133654612316803366 CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/
+			133584274560000000 CH5/SystemVerilog/tb/
+			133640940694273796 CH2/VHDL/build/logic_ex.hw/hw_1/wave/
+			133584274560000000 CH3/SystemVerilog/hdl/
+			133584274560000000 CH4/VHDL/simple_ff_async/hdl/
+			133584274560000000 CH10/SystemVerilog/
+			133659188930135590 CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/obj/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.gen/sources_1/
+			133584274560000000 CH12/IP/
+			133584274560000000 CH4/SystemVerilog/blocking/hdl/
+			133584274560000000 CH5/IP/sys_pll/
+			133584274560000000 CH5/VHDL/hdl/
+			133584274560000000 CH12/IP/sys_pll/
+			133584274560000000 CH13/VHDL/
+			133641546260858953 CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/
+			133659188930555593 CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/xsim.dir/tb_behav/
+			133584274560000000 CH5/VHDL/
+			133678915749069527 CH3/VHDL/build/project_2.runs/impl_1/
+			133584274560000000 CH2/SystemVerilog/
+			133584274560000000 CH2/VHDL/build/logic_ex/
+			133641543319370970 CH2/VHDL/build/challenge.cache/compile_simlib/vcs/
+			133654617662615413 CH3/SystemVerilog/build/project_2.hw/hw_1/wave/
+			133584274560000000 CH5/VHDL/build/
+			133584274560000000 CH10/VHDL/build/
+			133584274560000000 CH4/SystemVerilog/simple_ff_async/build/
+			133584274560000000 CH5/SystemVerilog/
+			133584274560000000 CH7/IP/fix_to_float/
+			133584274560000000 CH7/VHDL/
+			133584274560000000 CH11/SystemVerilog/
+			133640766899223072 CH2/VHDL/build/logic_ex.cache/compile_simlib/xcelium/
+			133584274560000000 CH3/SystemVerilog/tb/
+			133584274560000000 CH6/SystemVerilog/build/
+			133584274560000000 CH6/xdc/
+			133584274560000000 CH9/SystemVerilog/
+			133678915074514947 CH3/VHDL/build/project_2.runs/synth_1/
+			133584274560000000 CH4/SystemVerilog/simple_init_ff/hdl/
+			133584274560000000 CH4/VHDL/simple_ff/tb/
+			133678914457599337 CH3/VHDL/build/project_2.cache/compile_simlib/vcs/
+			133584274560000000 CH11/VHDL/hdl/
+			133584274560000000 CH2/VHDL/build/challenge/
+			133654616578684043 CH3/SystemVerilog/build/project_2.cache/ip/
+			133584274560000000 CH4/VHDL/blocking/hdl/
+			133584274560000000 CH7/IP/fp_addsub/
+			133678914457609343 CH3/VHDL/build/project_2.cache/compile_simlib/
+			133640766899223072 CH2/VHDL/build/logic_ex.cache/compile_simlib/modelsim/
+			133640766899233077 CH2/VHDL/build/logic_ex.cache/compile_simlib/riviera/
+			133584274560000000 CH8/SystemVerilog/ip_source/
+			133584274560000000 CH14/xdc/
+			133584274560000000 CH6/VHDL/hdl/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.srcs/sources_1/bd/
+			133640935199963278 CH2/VHDL/build/logic_ex.cache/wt/
+			133584274560000000 CH7/IP/flt_to_fix/
+			133584274560000000 CH6/VHDL/
+			133584274560000000 .settings/
+			133584274560000000 CH7/SystemVerilog/tb/
+			133584274560000000 CH8/SystemVerilog/ip_source/seven_segment/
+			133584274560000000 CH4/VHDL/simple_ff/build/
+			133678914714772989 CH3/VHDL/build/project_2.cache/ip/2022.2/
+			133654617775989541 CH3/SystemVerilog/build/project_2.hw/hw_1/
+			133584274560000000 CH4/VHDL/simple_ff_async/
+			133584274560000000 CH2/SystemVerilog/tb/
+			133584274560000000 CH4/VHDL/
+			133584274560000000 CH8/VHDL/ip_source/seven_segment/xgui/
+			133678926650699029 CH3/VHDL/build/project_2.hw/
+			133584274560000000 CH14/
+			133640927226578397 CH2/VHDL/build/logic_ex.cache/sim/
+			133584274560000000 CH7/xdc/
+			133584274560000000 CH8/SystemVerilog/build/scaffold/
+			133584274560000000 CH8/SystemVerilog/hdl/
+			133584274560000000 CH8/VHDL/
+			133678915066597107 CH3/VHDL/build/project_2.runs/synth_1/.Xil/
+			133678914714917981 CH3/VHDL/build/project_2.runs/
+			133584274560000000 CH9/VHDL/build/
+			133584274560000000 CH10/IP/pix_clk/
+			133659696240000000 CH3/VHDL/tb/
+			133584274560000000 CH4/SystemVerilog/blocking/build/
+			133643295410171557 CH2/VHDL/build/
+			133641543319360604 CH2/VHDL/build/challenge.cache/compile_simlib/questa/
+			133641547305156254 CH2/VHDL/build/logic_ex.runs/.jobs/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.srcs/sources_1/bd/design_1/
+			133584274560000000 CH8/VHDL/ip_source/adt7420_i2c/
+			133584274560000000 CH9/SystemVerilog/build/
+			133640934870256565 CH2/VHDL/build/logic_ex.cache/ip/2022.2/
+			133584274560000000 CH7/SystemVerilog/build/
+			133584274560000000 CH7/SystemVerilog/hdl/
+			133584274560000000 CH12/tb/
+			133659192046893604 CH3/SystemVerilog/build/project_2.runs/impl_1/
+			133654612293694688 CH3/SystemVerilog/build/project_2.sim/sim_1/behav/
+			133584274560000000 CH4/SystemVerilog/counting_buttons/
+			133584274560000000 CH8/VHDL/ip_source/adt7420_i2c/hdl/
+			133584274560000000 CH11/SystemVerilog/tb/
+			133584274560000000 CH11/VHDL/build/
+			133584274560000000 CH12/VHDL/sim/tests/
+			133643295278259872 CH2/VHDL/build/logic_ex.cache/
+			133640927226618390 CH2/VHDL/build/logic_ex.sim/sim_1/behav/
+			133678914457589352 CH3/VHDL/build/project_2.cache/compile_simlib/questa/
+			133584274560000000 CH10/xdc/
+			133659192289661614 CH3/SystemVerilog/build/project_2.hw/
+			133640927270363947 CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/
+			133659182895197748 CH3/SystemVerilog/build/project_2.runs/synth_1/.Xil/
+			133659188933415581 CH3/SystemVerilog/build/project_2.sim/sim_1/behav/xsim/
+			133654659296116060 CH3/SystemVerilog/build/project_2.srcs/utils_1/
+			133584274560000000 CH4/SystemVerilog/simple_init_ff/tb/
+			133584274560000000 CH6/
+			133584274560000000 CH2/xdc/
+			133659182903007779 CH3/SystemVerilog/build/project_2.runs/synth_1/
+			133584274560000000 CH4/SystemVerilog/blocking/tb/
+			133584274560000000 CH2/VHDL/tb/
+			133659696240000000 CH3/VHDL/hdl/
+			133584274560000000 CH8/VHDL/ip_source/seven_segment/hdl/
+			133640766899233077 CH2/VHDL/build/logic_ex.cache/compile_simlib/vcs/
+			133584274560000000 CH8/VHDL/ip_source/
+			133584274560000000 CH9/xdc/
+			133584274560000000 CH13/SystemVerilog/build/
+			133584274560000000 CH2/
+			133659188466055647 CH3/SystemVerilog/build/project_2.srcs/utils_1/imports/
+			133584274560000000 CH8/VHDL/tb/
+			133678914457609343 CH3/VHDL/build/project_2.cache/compile_simlib/riviera/
+			133641543319381316 CH2/VHDL/build/challenge.cache/compile_simlib/activehdl/
+			133584274560000000 CH2/VHDL/hdl/
+			133659188464575622 CH3/SystemVerilog/build/project_2.cache/
+			133584274560000000 CH7/VHDL/build/parallel/
+			133584274560000000 CH12/VHDL/
+			133643295278269873 CH2/VHDL/build/logic_ex.ip_user_files/
+			133654612067804479 CH3/SystemVerilog/build/project_2.cache/compile_simlib/modelsim/
+			133584274560000000 CH4/SystemVerilog/simple_init_ff/build/
+			133584274560000000 CH5/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.gen/sources_1/bd/design_1/hdl/
+			133659188464585621 CH3/SystemVerilog/build/project_2.ip_user_files/
+			133584274560000000 CH8/VHDL/ip_source/seven_segment/
+			133584274560000000 CH13/VHDL/build/
+			133641548364374250 CH2/VHDL/build/logic_ex.runs/impl_1/.Xil/
+			133584274560000000 CH4/VHDL/counting_buttons/
+			133584274560000000 CH2/SystemVerilog/build/
+			133654612293654686 CH3/SystemVerilog/build/project_2.cache/sim/
+			133584274560000000 CH13/xdc/
+			133641543319365789 CH2/VHDL/build/challenge.cache/compile_simlib/xcelium/
+			133641546259928942 CH2/VHDL/build/logic_ex.sim/sim_1/behav/xsim/xsim.dir/tb_behav/
+			133584274560000000 CH5/VHDL/tb/
+			133584274560000000 CH8/SystemVerilog/
+			133584274560000000 CH9/SystemVerilog/tb/
+			133678915817820668 CH3/VHDL/build/project_2.hw/hw_1/wave/
+			133584274560000000 CH3/xdc/
+			133584274560000000 CH4/SystemVerilog/simple_init_ff/
+			133584274560000000 CH7/VHDL/build/
+			133584274560000000 CH12/SystemVerilog/sim/tests/
+			133584274560000000 CH4/SystemVerilog/counting_buttons/build/
+			133643295406591566 CH2/VHDL/build/challenge.sim/
+			133584274560000000 CH3/SystemVerilog/
+			133654612067814472 CH3/SystemVerilog/build/project_2.cache/compile_simlib/questa/
+			133678915742044212 CH3/VHDL/build/project_2.runs/impl_1/.Xil/
+			133641655583971006 CH2/VHDL/build/challenge.runs/synth_1/.Xil/
+			133654612293694688 CH3/SystemVerilog/build/project_2.sim/sim_1/
+			133584274560000000 CH4/VHDL/simple_ff/
+			133584274560000000 CH10/SystemVerilog/tb/
+			133640934870256565 CH2/VHDL/build/logic_ex.cache/ip/
+			133584274560000000 CH6/SystemVerilog/tb/
+			133584274560000000 CH8/VHDL/build/
+			133584274560000000 CH12/xdc/
+			133641655590764018 CH2/VHDL/build/challenge.runs/synth_1/
+			133584274560000000 CH4/VHDL/simple_ff_async/tb/
+			133584274560000000 CH11/xdc/
+			133584274560000000 CH7/IP/fp_mult/
+			133584274560000000 CH8/VHDL/build/completed/
+			133584274560000000 CH11/SystemVerilog/build/
+			133641543319376124 CH2/VHDL/build/challenge.cache/compile_simlib/riviera/
+			133641660521560206 CH2/VHDL/build/challenge.runs/.jobs/
+			133643295278269873 CH2/VHDL/build/logic_ex.hw/
+			133584274560000000 CH8/SystemVerilog/ip_source/flt_temp/
+			133584274560000000 CH4/SystemVerilog/
+			133678914714772989 CH3/VHDL/build/project_2.cache/ip/
+			133584274560000000 CH10/
+			133584274560000000 CH10/VHDL/tb/
+			133584274560000000 CH2/SystemVerilog/hdl/
+			133584274560000000 CH8/SystemVerilog/ip_source/adt7420_i2c/hdl/
+			133678914457589352 CH3/VHDL/build/project_2.cache/compile_simlib/modelsim/
+			133584274560000000 CH10/SystemVerilog/hdl/
+			133584274560000000 CH12/SystemVerilog/
+			133584274560000000 CH14/SystemVerilog/tb/
+			133641661157710166 CH2/VHDL/build/challenge.runs/impl_1/.Xil/
+			133678940111233613
+			133584274560000000 CH2/VHDL/
+			133641627515584229 CH2/VHDL/build/challenge.cache/ip/
+			133640766899223072 CH2/VHDL/build/logic_ex.cache/compile_simlib/questa/
+			133643295278249870 CH2/VHDL/build/logic_ex.sim/
+			133659191645813340 CH3/SystemVerilog/build/project_2.runs/.jobs/
+			133654612067834476 CH3/SystemVerilog/build/project_2.cache/compile_simlib/
+			133654612067824489 CH3/SystemVerilog/build/project_2.cache/compile_simlib/riviera/
+			133584274560000000 CH4/SystemVerilog/simple_ff/hdl/
+			133584274560000000 CH4/SystemVerilog/simple_ff_async/tb/
+			133584274560000000 CH6/VHDL/tb/
+			133643295406601564 CH2/VHDL/build/challenge.hw/
+			133584274560000000 CH4/xdc/
+			133584274560000000 CH10/VHDL/hdl/
+			133584274560000000 CH4/VHDL/blocking/
+			133641543319381316 CH2/VHDL/build/challenge.cache/compile_simlib/
+			133659188464855607 CH3/SystemVerilog/build/project_2.runs/
+			133584274560000000 CH8/SystemVerilog/build/completed/i2c_temp_flt_bd/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.gen/
+			133584274560000000 CH14/SystemVerilog/
+			133641548372074234 CH2/VHDL/build/logic_ex.runs/impl_1/
+			133654612067824489 CH3/SystemVerilog/build/project_2.cache/compile_simlib/vcs/
+			133584274560000000 CH4/SystemVerilog/simple_ff/tb/
+			133584274560000000 CH11/
+			133659188465405644 CH3/SystemVerilog/build/project_2.srcs/utils_1/imports/synth_1/
+			133659696240000000 CH3/VHDL/
+			133678914714313545 CH3/VHDL/build/
+			133584274560000000 CH8/VHDL/ip_source/flt_temp/hdl/
+			133641633002194689 CH2/VHDL/build/challenge.hw/hw_1/
+			133641547722413639 CH2/VHDL/build/logic_ex.runs/synth_1/
+			133584274560000000 CH5/IP/
+			133584274560000000 CH7/IP/
+			133584274560000000 CH4/
+			133678914461029355 CH3/VHDL/build/project_2.sim/
+			133584274560000000 CH8/SystemVerilog/build/
+			133584274560000000 CH8/SystemVerilog/build/completed/
+			133584274560000000 CH9/
+			133641661165370149 CH2/VHDL/build/challenge.runs/impl_1/
+			133640766899243072 CH2/VHDL/build/logic_ex.cache/compile_simlib/activehdl/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.gen/sources_1/bd/design_1/
+			133584274560000000 CH11/VHDL/tb/
+			133584274560000000 CH6/VHDL/build/
+			133584274560000000 CH8/VHDL/build/completed/i2c_temp_flt_bd.srcs/sources_1/
+			133584274560000000 CH12/VHDL/hdl/
+			133640766899243072 CH2/VHDL/build/logic_ex.cache/compile_simlib/
+			133584274560000000 CH8/VHDL/ip_source/flt_temp/
+		</Folders>
+	</Project>
+</WildcardCache>

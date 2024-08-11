@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Note: setting SW to 00
+Time: 0 ps  Iteration: 0  Process: /tb/initial  File: C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH2/VHDL/tb/tb.vhd
+Note: setting SW to 01
+Time: 100 ns  Iteration: 0  Process: /tb/initial  File: C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH2/VHDL/tb/tb.vhd
+Note: setting SW to 10
+Time: 200 ns  Iteration: 0  Process: /tb/initial  File: C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH2/VHDL/tb/tb.vhd
+Note: setting SW to 11
+Time: 300 ns  Iteration: 0  Process: /tb/initial  File: C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH2/VHDL/tb/tb.vhd
+Note: PASS: logic_ex test PASSED!
+Time: 400 ns  Iteration: 0  Process: /tb/initial  File: C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH2/VHDL/tb/tb.vhd
+$stop called at time : 400 ns : File "C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH2/VHDL/tb/tb.vhd" Line 41
